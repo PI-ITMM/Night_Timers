@@ -1,7 +1,7 @@
 # Night_Timers
 # Команда состоит из 4х человек: 
-Ангелина Кузнецова - Scrum Master 
-Хоанг Ха Чунг Зунг - Product Owner 
+Ангелина Кузнецова - Scrum Master \
+Хоанг Ха Чунг Зунг - Product Owner \
 Коханская Алёна - Developer \
 Дмитриева Юля - Developer 
 # Задание: 
